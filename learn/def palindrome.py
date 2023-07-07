@@ -20,3 +20,16 @@ txt = input()
 
 # вызываем функцию
 print(is_palindrome(txt))
+
+# объявление функции 15551:7:290
+def is_valid_password(password):
+   password = list(map(int, password.split(":")))
+   if def is_palindrome(passworde[0]) is True:
+
+
+
+# считываем данные
+psw = input()
+
+# вызываем функцию
+print(is_valid_password(psw))
