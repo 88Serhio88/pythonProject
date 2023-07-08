@@ -1,4 +1,4 @@
-# Standart - smallest, sell Amstrad nats.
+# Standart - smallest, sell Amstrad nats.!!!
 
 from math import ceil
 
